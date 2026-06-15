@@ -1,6 +1,4 @@
----
-dg-publish: true
----
+
 
 Reformkori (19. század) politikus volt, akinek célja Magyarország fejlődésének biztositása. Ezért sokat is tett, és emiatt gyakran a legnagyobb magyarnak szokták nevezni.
 
