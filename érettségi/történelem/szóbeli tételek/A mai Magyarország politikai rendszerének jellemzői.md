@@ -1,7 +1,4 @@
----
-dg-publish: true
-dg-home: false
----
+
 
 1. AZ ÁLLAMFORMA, ÁLLAMFŐI HATALOM, ALKOTMÁNY
 
