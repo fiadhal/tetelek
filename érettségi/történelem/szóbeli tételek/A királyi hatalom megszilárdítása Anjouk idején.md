@@ -1,6 +1,4 @@
----
-dg-publish: "true"
----
+
 
 
 a) A tronharcok és a hatalom megszerzése (1301-1321)
