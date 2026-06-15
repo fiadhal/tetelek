@@ -1,6 +1,4 @@
----
-dg-publish: true
----
+
 
 A reformáció a XVI. században Nyugat Európában a katolikus egyház hibáira való reakcióként indult mozgalom.
 Az a nagy vallási megújulás, amely a XVI. században zajlott le, és amelynek eredményeképpen a katolikus egyházzal szemben új keresztény egyházak jöttek létre
