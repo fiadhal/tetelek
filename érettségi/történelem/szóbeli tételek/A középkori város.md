@@ -1,7 +1,4 @@
----
-dg-publish: true
-dg-home: true
----
+
 
 Európa történelmében az ugrásszerű fejlődés a 10-11. században kezdődött. A földművelő népességből ekkor vált ki az a kézműves, iparos réteg, amely a városi lakosság egyik részét adta. Ekkortól lendült fel a kereskedés is, amely a városok másik legfontosabb fejlesztője lett.
 
